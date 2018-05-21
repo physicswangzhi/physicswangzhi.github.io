@@ -1,0 +1,53 @@
+
+wang:
+    display_name: "Prof. Zhi Wang"
+    webpage: "https://scholar.google.com.sg/citations?user=s89pR8sAAAAJ&hl=en"
+    role: faculty
+    image: /img/people/wz.jpg
+    bio: Associate Professor
+
+
+zheng:
+    display_name: "Jun-Hui Zheng"
+    role: grad
+    bio: Master Student
+
+feng:
+    display_name: "Jia-Jin Feng"
+    role: grad
+    bio: Master Student
+
+
+li:
+    display_name: "Guang-Jie Li"
+    role: grad
+    bio: Undergraduate
+
+
+wu:
+    display_name: "Ji-Min Wu"
+    role: grad
+    bio: Undergraduate
+
+
+huang:
+    display_name: "Wen-Chao Huang"
+    role: alum
+    bio: Master, 2016.
+
+hh:
+    display_name: "Hong Huang"
+    role: alum
+    bio: Master, 2017.
+
+
+
+lin:
+    display_name: "Rui Lin"
+    role: alum
+    bio: Undergraduate, 2015.
+
+huangzhao:
+    display_name: "Zhao Huang"
+    role: collab
+    bio: University of Houston
